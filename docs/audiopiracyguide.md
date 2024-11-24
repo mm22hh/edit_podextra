@@ -224,6 +224,7 @@
 * [ListenBox](https://listenbox.app/) or [PodSync](https://github.com/mxpv/podsync) - Turn YouTube Video into Podcasts
 * [JRE Missing](https://www.jremissing.com/) - Tracks Missing JRE Podcasts
 * [Podcatalysts](https://podcatalysts.substack.com/) - Podcast Recommendation Newsletter
+* [PodExtra AI](https://www.podextra.ai/) - AI Podcast assistant with transcript and mindmap
 
 ***
 
